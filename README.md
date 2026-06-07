@@ -39,4 +39,5 @@ images/
 ## Running the Game
 
 It is also available to play at  for free at https://jackydevx.github.io/BirdsGoMad/
+
 Open `index.html` in a browser or serve locally (e.g. `npx serve .` or `python -m http.server 8000`).
